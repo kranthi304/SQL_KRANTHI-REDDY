@@ -32,4 +32,4 @@ RENAME---The rename command is used to change the name of an existing database o
 
 
 Is truncate and DELETE same in SQL?
-Both the SQL DELETE and SQL TRUNCATE commands can be used to remove records from a table. However, the DELETE command employs the WHERE clause to specify rows in a table for deletion action, whereas the TRUNCATE command does not use any clause and deletes rows all at once
+Both the SQL DELETE and SQL TRUNCATE commands can be used to remove records from a table. However, the DELETE command employs the WHERE clause to specify rows in a table for deletion action, whereas the TRUNCATE command does not use any clause and deletes rows all at once.
