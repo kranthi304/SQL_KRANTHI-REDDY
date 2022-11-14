@@ -2,11 +2,12 @@
            
            
            
-Structured Query Language
+Sql stands for Structured Query Language
 Non procedural Language
 Standard Language for dealing with relational data bases 
 Sql is used to delete ,update ,insert and search database shortcuts in the databases
 Sql keywords are not case sensitive
 Semicolon is the standard way to seperate each sql startment and allows more than one sql statement to execute in same call of the server.
-
-
+Sql deals with (--what--) to do unlike procedural programming languages (how to do)
+Sql is a complex language and hence divided into 4 main sub-languages (//DDL ,,DML,,DCL,,TCL//)
+Let's see each of it 
