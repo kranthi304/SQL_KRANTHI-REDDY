@@ -11,3 +11,25 @@ Semicolon is the standard way to seperate each sql startment and allows more tha
 Sql deals with (--what--) to do unlike procedural programming languages (how to do)
 Sql is a complex language and hence divided into 4 main sub-languages (//DDL ,,DML,,DCL,,TCL//)
 Let's see each of it 
+
+
+
+
+
+                                                     DDL
+    
+  
+ DDL stands for Data Definition Language.
+ Most used Keywords are      ----((CREATE,,,ALTER,,,RENAME,,,DROP,,,TRUNCATE))
+ 
+CREATE---Used to create databases or tables 
+DROP---drop statement is used to drop a table,column or row  at a time
+TRUNCATE---This command deletes the data inside the table but not the table itself
+ALTER---The ALTER TABLE statement is used to add, delete, or modify columns in an existing table. The ALTER TABLE statement is also used to add and drop various               constraints on an existing table
+DROP---drop statement is used to drop a table
+RENAME---The rename command is used to change the name of an existing database object(like Table,Column) to a new name. Renaming a table does not make it to lose any            data is contained within it.
+
+
+
+Is truncate and DELETE same in SQL?
+Both the SQL DELETE and SQL TRUNCATE commands can be used to remove records from a table. However, the DELETE command employs the WHERE clause to specify rows in a table for deletion action, whereas the TRUNCATE command does not use any clause and deletes rows all at once
