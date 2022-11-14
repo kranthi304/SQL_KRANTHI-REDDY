@@ -1,1 +1,12 @@
-After github I'll start sql
+                                                    SQL
+           
+           
+           
+Structured Query Language
+Non procedural Language
+Standard Language for dealing with relational data bases 
+Sql is used to delete ,update ,insert and search database shortcuts in the databases
+Sql keywords are not case sensitive
+Semicolon is the standard way to seperate each sql startment and allows more than one sql statement to execute in same call of the server.
+
+
